@@ -1,9 +1,3 @@
-
----
-
-## 📙 `README.md` for `Prophettime2.ipynb`
-
-```markdown
 # 🥑 Prophettime Part 2: Forecasting Avocado Prices 🥑📈
 
 This notebook forecasts **avocado prices** in the U.S. using time series analysis with the `Prophet` library. We explore trends across different regions and years, with a focus on visualization and model interpretation.

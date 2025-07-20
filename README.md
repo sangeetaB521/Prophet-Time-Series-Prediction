@@ -1,27 +1,45 @@
 # 📈 Prophet Time Series Prediction
 
-This repository contains time series prediction projects using Facebook's Prophet forecasting tool.
+This repository showcases time series forecasting projects using **Facebook Prophet**, a powerful tool for modeling and predicting temporal data.
 
-## 📁 Projects
+Each project includes data cleaning, visualization, Prophet-based modeling, and analysis to extract insights and future trends.
 
-### 🥑 Avocado_Price
-Time series analysis and price prediction for avocado market data.
+---
 
-### 🚔 Chicago_Crimes
-Time series forecasting of crime patterns in Chicago using historical data.
+## 📁 Project Folders
 
-## 🛠️ Technologies Used
-- Python
-- Jupyter Notebooks
-- Facebook Prophet
-- Time Series Analysis
+### 🥑 `Avocado_Price`
+Forecasts average avocado prices across regions and years. Key highlights:
+- Market trend visualization
+- Seasonality detection
+- Region-wise forecasting with Prophet
+
+### 🚓 `Chicago_Crimes`
+Analyzes and forecasts crime patterns in Chicago using historical datasets. Features:
+- Merged multi-year crime data
+- Trend and seasonality analysis
+- Crime volume forecasting (monthly/quarterly)
+
+### 🪙 `Gold_Stock_Price`
+Time series forecasting of gold prices over time. Includes:
+- Price trend visualization
+- Prophet-based prediction of future gold values
+- Analysis of long-term investment patterns
+
+---
+
+## 🛠️ Tech Stack
+
+- Python 🐍
+- Jupyter Notebooks 📓
+- [Prophet](https://facebook.github.io/prophet/) 🔮
+- Pandas, Matplotlib, Seaborn
+
+---
 
 ## 🚀 Getting Started
 
-1. Clone the repository
-2. Install required dependencies
-3. Open the Jupyter notebooks in each project folder
-4. Run the analysis and generate forecasts
-
-## 👨‍💻 Author
-**sangeetaB521** - [GitHub Profile](https://github.com/sangeetaB521)
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/sangeetaB521/Prophet-Time-Series-Prediction.git
+   cd Prophet-Time-Series-Prediction

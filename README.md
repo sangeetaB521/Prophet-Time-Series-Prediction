@@ -24,7 +24,7 @@ Analyzes and forecasts crime patterns in Chicago using historical datasets. Feat
 Time series forecasting of gold prices over time. Includes:
 - Price trend visualization
 - Prophet-based prediction of future gold values
-- Analysis of long-term investment patterns
+- Analysis of long-term investment patterns and cultural/weekday trends
 
 ---
 
@@ -39,7 +39,9 @@ Time series forecasting of gold prices over time. Includes:
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/sangeetaB521/Prophet-Time-Series-Prediction.git
-   cd Prophet-Time-Series-Prediction
+Follow these steps to set up and run the notebooks:
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/sangeetaB521/Prophet-Time-Series-Prediction.git
+cd Prophet-Time-Series-Prediction
